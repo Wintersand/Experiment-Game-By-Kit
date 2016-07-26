@@ -337,7 +337,7 @@ public class TextController : MonoBehaviour {
 
 	// Going Left
 	void state_corridor_left () {
-		text.text = "You decide to investigate the cells to the left. As you approach, you hear a distant scream making your blood run " +
+		text.text = "You decide too investigate the cells to the left. As you approach, you hear a distant scream making your blood run " +
 		"cold. Supressing a shudder, you peer into the various cells as you pass to the end of this side of the corridor. Each of them is " +
 		"closed, sealed and empty. You wonder if you are the only person being held here. Finally, you reach the end of the row of cells. " +
 		"there was nothing of interest here. Perhap's you should try the other side?" +
